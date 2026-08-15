@@ -1,0 +1,22 @@
+[
+  ["Customer-ID", "customer_id"],
+  ["CUSTOMER.ID", "customer_id"],
+  ["customer/id", "customer_id"],
+  ["Invoice Number", "invoice_number"],
+  ["invoice-number", "invoice_number"],
+  ["INVOICE__NUMBER", "invoice_number"],
+  ["Shipping Address", "shipping_address"],
+  ["shipping/address", "shipping_address"],
+  ["SHIPPING.ADDRESS", "shipping_address"],
+  ["Postal Code 4", "postal_code_4"],
+  ["postal-code-4", "postal_code_4"],
+  ["API Response Time", "api_response_time"],
+  ["API.response.time", "api_response_time"],
+  ["Feature Flag 7", "feature_flag_7"],
+  ["feature/flag/7", "feature_flag_7"],
+  ["Last Login At", "last_login_at"],
+  ["last-login-at", "last_login_at"],
+  ["Billing Country", "billing_country"],
+  ["billing.country", "billing_country"],
+  ["Tax Rate 2", "tax_rate_2"]
+]
